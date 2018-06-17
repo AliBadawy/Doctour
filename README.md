@@ -11,8 +11,8 @@ Is a mobile application and website for medical tourism in Egypt.
 
 
 ##  Main features in the project:
-1. there must be two kinds of registration :1. Tourist registration. 
-                                           2. Doctor registration. 
+1. there must be two kinds of registration : 1. Tourist registration. 
+                                             2. Doctor registration. 
 2. For toursit registration the data we need is (we can update this):1. full name. 
                                                                     2. nationality. 
                                                                     3. age. 
